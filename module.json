@@ -1,0 +1,13 @@
+{
+    "name": "Smallticket",
+    "alias": "smallticket",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Smallticket\\Providers\\SmallticketServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
